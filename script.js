@@ -1,14 +1,14 @@
 $(document).ready(() => {
+    console.log('oi');
     fetch('products.json')
         .then(response => response.json())
         .then(data => {
+            console.log(data);
             const productsObj = data.products;
-
             for (const key in productsObj) {
                 if (productsObj.hasOwnProperty(key)) {
                     const product = productsObj[key];
                     const formattedPrice = new Intl.NumberFormat('pt-BR', { minimumFractionDigits: 2, maximumFractionDigits: 2 }).format(product.preco);
-
                     const productHTML = `
                         <a href="${product.link}" target="_blank" class="product bg-gray-800 rounded-lg p-6 w-full flex items-center justify-between shadow-md hover:shadow-lg transition duration-300 ease-in-out">
                             <img src="${product.foto}" alt="${product.titulo}" class="w-24 h-24 object-cover rounded sm:w-32 sm:h-32 lg:w-40 lg:h-40">
