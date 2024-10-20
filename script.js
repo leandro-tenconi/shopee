@@ -2,8 +2,6 @@ $(document).ready(() => {
     fetch('products.json')
         .then(response => response.json())
         .then(data => {
-            console.log(data);
-
             const productsObj = data.products;
 
             for (const key in productsObj) {
