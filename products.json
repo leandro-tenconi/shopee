@@ -1,21 +1,21 @@
 {
     "products": {
         "1": {
-            "foto": "img/produto1.png",
+            "foto": "./img/produto1.png",
             "titulo": "Carrinho de Controle Remoto",
             "descricao": "Alegre sua criança com este incrível carrinho de brinquedo controlado por controle remoto.",
             "link": "https://shopee/products/1",
             "preco": 49.90
         },
         "2": {
-            "foto": "img/produto2.png",
+            "foto": "./img/produto2.png",
             "titulo": "IPhone 15 Pro Max",
             "descricao": "O mais alto padrão de tecnologia do mundo na palma da sua mão.",
             "link": "https://shopee/products/2",
             "preco": 6499.90
         },
         "3": {
-            "foto": "img/produto3.png",
+            "foto": "./img/produto3.png",
             "titulo": "Smart TV Samsung 4K",
             "descricao": "Qualidade de cinema no conforto da sua casa com o modelo mais novo da Samsung.",
             "link": "https://shopee/products/3",
