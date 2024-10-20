@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <title>Leandro Tenconi | Produtos Shopee</title>
+    <style>
+        .product:hover {
+            border: 2px solid #ff0000;
+            box-shadow: 0 0 20px #ff0000, 0 0 30px #ff0000;
+            transition: border 0.4s ease, box-shadow 0.4s ease;
+        }
+
+        .product {
+            transition: all 0.4s ease;
+        }
+
+        .header-container {
+            background: linear-gradient(90deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.6));
+        }
+    </style>
+</head>
+<body class="bg-gray-900 text-gray-100">
+
+    <header class="header-container text-center py-8 border-b border-gray-800 shadow-lg">
+        <h1 class="text-5xl font-bold text-purple-400 mb-2">Leandro Tenconi</h1>
+        <p class="text-lg text-gray-300">Produtos Shopee</p>
+    </header>
+
+    <div id="tree" class="container mx-auto my-8 grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 lg:grid-cols-1 gap-6 px-4">
+        <!-- Produtos inseridos aqui via JavaScript -->
+    </div>
+
+    <script src="/script.js"></script>
+
+</body>
+</html>
