@@ -1,6 +1,5 @@
 $(document).ready(() => {
-    console.log('oi');
-    fetch('/products.json')
+    fetch('products.json')
         .then(response => response.json())
         .then(data => {
             console.log(data);
