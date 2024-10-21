@@ -1,25 +1,326 @@
 {
     "products": {
         "1": {
-            "foto": "img/produto1.png",
-            "titulo": "Carrinho de Controle Remoto",
-            "descricao": "Alegre sua criança com este incrível carrinho de brinquedo controlado por controle remoto.",
-            "link": "https://shopee/products/1",
-            "preco": 49.90
+            "foto": "img/produtos/produto1.png",
+            "titulo": "Lavadoura Alta Pressão",
+            "descricao": "Lavadora De Alta Pressão Lav1300 Libras Vonder 1.300lbf",
+            "link": "https://s.shopee.com.br/2Ax1xIEQ6K?share_channel_code=1",
+            "preco": 319.90
         },
         "2": {
-            "foto": "img/produto2.png",
-            "titulo": "IPhone 15 Pro Max",
-            "descricao": "O mais alto padrão de tecnologia do mundo na palma da sua mão.",
-            "link": "https://shopee/products/2",
-            "preco": 6499.90
+            "foto": "img/produtos/produto2.png",
+            "titulo": "Panela de Pressão",
+            "descricao": "Panela de Pressão Antiaderente Fechamento EXTERNO em Alumínio Teflon 4,5 Litros",
+            "link": "https://s.shopee.com.br/2Ax1xKVHPC?share_channel_code=1",
+            "preco": 69.90
         },
         "3": {
-            "foto": "img/produto3.png",
-            "titulo": "Smart TV Samsung 4K",
-            "descricao": "Qualidade de cinema no conforto da sua casa com o modelo mais novo da Samsung.",
-            "link": "https://shopee/products/3",
-            "preco": 3249.90
+            "foto": "img/produtos/produto3.png",
+            "titulo": "Playstation 4",
+            "descricao": "PS4 PLAYSTATION SONY SLIM 500 gb + 1 JOGO - ENVIO FILMADO E FOTOGRAFADO - CONTROLE ORIGINAL",
+            "link": "https://s.shopee.com.br/10l4ZCqZXs?share_channel_code=1",
+            "preco": 1628
+        },
+        "4": {
+            "foto": "img/produtos/produto4.png",
+            "titulo": "Barbeador Elétrico",
+            "descricao": "Barbeador Elétrico / Máquina De Barba Elétrica Recarregável Para Barba Masculina",
+            "link": "https://s.shopee.com.br/5Ku3jCQT69?share_channel_code=1",
+            "preco": 199
+        },
+        "5": {
+            "foto": "img/produtos/produto5.png",
+            "titulo": "Baú de Moto",
+            "descricao": "Baú de Moto 28 Litros Glider Bauleto Reforçado P/ Motoboy Bagageiro Completo",
+            "link": "https://s.shopee.com.br/9KQCUZSzAJ?share_channel_code=1",
+            "preco": 178.90
+        },
+        "6": {
+            "foto": "img/produtos/produto6.png",
+            "titulo": "Mini Câmera WIFI FullHD",
+            "descricao": "Mini Câmera 1080p WiFi Micro Gravador De Áudio Secreto DVR Controle Remoto Sensor De Movimento De Ação",
+            "link": "https://s.shopee.com.br/10l4ZHFd6y?share_channel_code=1",
+            "preco": 73.90
+        },
+        "7": {
+            "foto": "img/produtos/produto7.png",
+            "titulo": "Jogo de Panelas - 5 Unidades + Panela de Pressão",
+            "descricao": "Jogo com 5 panelas em alumínio + Panela de pressão 2,5 litros por ",
+            "link": "https://s.shopee.com.br/4pxn8LIEPw?share_channel_code=1",
+            "preco": 149.90
+        },
+        "8": {
+            "foto": "img/produtos/produto8.png",
+            "titulo": "Bomba para Inflar Elétrica",
+            "descricao": "110V/220V Elétrica Inflador Compressor Bomba Balões Bexigas 2 Bicos Festas Infla Rapido Com Bicos",
+            "link": "https://s.shopee.com.br/3L8zLbo4dU?share_channel_code=1",
+            "preco": 69.20
+        },
+        "9": {
+            "foto": "img/produtos/produto9.png",
+            "titulo": "Playstation 5 - Mídia Física",
+            "descricao": "Console PS5 (com leitor de disco) - Branco",
+            "link": "https://s.shopee.com.br/6ATAiqC0qU?share_channel_code=1",
+            "preco": 3999.90
+        },
+        "10": {
+            "foto": "img/produtos/produto10.png",
+            "titulo": "Nebulizador Branco",
+            "descricao": "Nebulizador Inalador Ultrassônico Portátil Usb Bivolt Adulto E Infantil",
+            "link": "https://s.shopee.com.br/40Og8skBcn?share_channel_code=1",
+            "preco": 68.90
+        },
+        "11": {
+            "foto": "img/produtos/produto11.png",
+            "titulo": "Smart TV 32 Polegadas",
+            "descricao": "Smart Tv LED Hd 32 Polegadas AOC Sistema Roku TV Wi-Fi HDMI",
+            "link": "https://s.shopee.com.br/6fPRJnihma?share_channel_code=1",
+            "preco": 1027.99
+        },
+        "12": {
+            "foto": "img/produtos/produto12.png",
+            "titulo": "Jogo de Panelas Antiaderente",
+            "descricao": "Jogo de Panelas Elegance Antiaderente Teflon 9 Peças Tampa Vidro",
+            "link": "https://s.shopee.com.br/9Ujch1oyaw?share_channel_code=1",
+            "preco": 169.90
+        },
+        "13": {
+            "foto": "img/produtos/produto13.png",
+            "titulo": "Projetor Portátil Android",
+            "descricao": "Projetor Portátil Android 11 Smart  Wifi 6 Bluetooth 5.0 1080p",
+            "link": "https://s.shopee.com.br/AKIjgaOvdk?share_channel_code=1",
+            "preco": 299.99
+        },
+        "14": {
+            "foto": "img/produtos/produto14.png",
+            "titulo": "Fone M10 Bluetooth",
+            "descricao": "Fone De Ouvido Bluetooth 5.1 Sem Fio TWS Touch Noise Reduction Waterproof",
+            "link": "https://s.shopee.com.br/AKIjgbkBCF?share_channel_code=1",
+            "preco": 19.00
+        },
+        "15": {
+            "foto": "img/produtos/produto15.png",
+            "titulo": "SmartWatch B57",
+            "descricao": "Smartwatch B57 Relógio Inteligente Homens Mulheres - Compatível Com Android e iOS",
+            "link": "https://s.shopee.com.br/5VDTvk6iGf?share_channel_code=1",
+            "preco": 58.49
+        },
+        "16": {
+            "foto": "img/produtos/produto16.png",
+            "titulo": "Omeleteira Elétrica",
+            "descricao": "Omeleteira elétrica 800 watts Easy Omelet - OM-02 - Mondial ",
+            "link": "https://s.shopee.com.br/7UyYJRKy7n?share_channel_code=1",
+            "preco": 159.90
+        },
+        "17": {
+            "foto": "img/produtos/produto17.png",
+            "titulo": "Kit Masculino - Relógio + Boné + Óculos",
+            "descricao": "Kit Masculino Relógio Digital Esportivo + Boné + Óculos de Sol por",
+            "link": "https://s.shopee.com.br/7ALhuqQAHF?share_channel_code=1",
+            "preco": 28.99
+        },
+        "18": {
+            "foto": "img/produtos/produto18.png",
+            "titulo": "Bomba de Ar Comprimido para Pneu",
+            "descricao": "120 W Carro Pneu De Elétrico Bomba De Ar Compressor Portátil Recarregável Digital Auto Inflator Equipamentos",
+            "link": "https://s.shopee.com.br/4feMwGmTeS?share_channel_code=1",
+            "preco": 142.23
+        },
+        "19": {
+            "foto": "img/produtos/produto19.png",
+            "titulo": "Brinquedo Torre Patrulha Canina",
+            "descricao": "Brinquedo De base Do Sede De Patrulha De Patas Torre De Observação Superdimensionada",
+            "link": "https://s.shopee.com.br/7pbOi6rgZg?share_channel_code=1",
+            "preco": 59.90
+        },
+        "20": {
+            "foto": "img/produtos/produto20.png",
+            "titulo": "Grill/Sanduicheira Elétrica",
+            "descricao": "Grill Sanduicheira Click Cadence SAN400 Elétrica Antiaderente Crepeira Misteira Chapa",
+            "link": "https://s.shopee.com.br/4feMwJKWVq?share_channel_code=1",
+            "preco": 119.99 
+        },
+        "21": {
+            "foto": "img/produtos/produto21.png",
+            "titulo": "Caixa de Som Bluetooh Para Banho",
+            "descricao": "Mini Caixa de Som Caixinha Banheiro Bluetooth Android E Ios BTS06 por",
+            "link": "https://s.shopee.com.br/AUc9t3KKBO?share_channel_code=1",
+            "preco": 24.99
+        },
+        "22": {
+            "foto": "img/produtos/produto22.png",
+            "titulo": "Cortador de Alimentos Multiuso",
+            "descricao": "Cortador Multifuncional Fatiador De Verduras/frutas/legumes ",
+            "link": "https://s.shopee.com.br/8KXfJ5b6Yc?share_channel_code=1",
+            "preco": 50.49
+        },
+        "23": {
+            "foto": "img/produtos/produto23.png",
+            "titulo": "Kit para Treino Funcional - Academia em casa 6 unidades",
+            "descricao": "Kit Funcional Completo C/ 6 Itens :-  caneleira de 3kg  + halter de 1kg + colchonete + Roda + Extensor + Corda",
+            "link": "https://s.shopee.com.br/9A6mIdbW2q?share_channel_code=1",
+            "preco": 172.72
+        },
+        "24": {
+            "foto": "img/produtos/produto24.png",
+            "titulo": "Capacete Articulado para Moto",
+            "descricao": "Capacete Moto Escamoteável Articulado Robocop Pro Tork Attack Masculino Feminino Viseira Solar Fumê",
+            "link": "https://s.shopee.com.br/6KmavRm2Gm?share_channel_code=1",
+            "preco": 388.68
+        },
+        "25": {
+            "foto": "img/produtos/produto25.png",
+            "titulo": "Cafeteira Elétrica",
+            "descricao": "Cafeteira Elétrica Cadence com 2 xicaras Caf230 Single Up Vermelha Preto Filtro Reutilizável",
+            "link": "https://s.shopee.com.br/BBxa8IBLF?share_channel_code=1",
+            "preco": 139.89
+        },
+        "26": {
+            "foto": "img/produtos/produto26.png",
+            "titulo": "SmartWatch T800",
+            "descricao": "LAXASFIT 2024 Novo Smartwatch Relógio Inteligente T800 ultra2 Smart Watch 1.81 HD Screen Wireless Phone Sports Mode Freqüência Cardíaca/Monitoramento Da Qualidade Do Sono Calorie Counting Gift",
+            "link": "https://s.shopee.com.br/7fHyVvkYFX?share_channel_code=1",
+            "preco": 37.30
+        },
+        "27": {
+            "foto": "img/produtos/produto27.png",
+            "titulo": "Tênis Masculino Respirável",
+            "descricao": "Tênis respiráveis masculino Sapatilha Aquática P/ Pescaria Trilha E Aventuras ",
+            "link": "https://s.shopee.com.br/10l4ZhQqpE?share_channel_code=1",
+            "preco": 129.99
+        },
+        "28": {
+            "foto": "img/produtos/produto28.png",
+            "titulo": "Espremedor Elétrico 400ml 6 lâminas",
+            "descricao": "400ML 6 Lâminas Espremedor Elétrico Mini Liquidificador Portátil De Suco De Alimentos Misturador Leite pó",
+            "link": "https://s.shopee.com.br/7ALhv2yz3Y?share_channel_code=1",
+            "preco": 32.88
+        },
+        "29": {
+            "foto": "img/produtos/produto29.png",
+            "titulo": "Fone de Ouvido Bluetooh 5.3",
+            "descricao": "Fone De Ouvido Sem Fio Bluetooth 5.3 Ruído Cancelando Fones Com Microfone HiFi Stereo Digital Display Transparente Caixa Esportiva",
+            "link": "https://s.shopee.com.br/3q5FwwFOUq?share_channel_code=1",
+            "preco":9.99 
+        },
+        "30": {
+            "foto": "img/produtos/produto30.png",
+            "titulo": "Iluminária Astronauta",
+            "descricao": "Astronauta Luminária Projetor De Luz Estrela Galáxia Nebulosa",
+            "link": "https://s.shopee.com.br/1qKBZIDOux?share_channel_code=1",
+            "preco": 59.49
+        },
+        "31": {
+            "foto": "img/produtos/produto31.png",
+            "titulo": "IPhone 15 Pro Max 256GB",
+            "descricao": "iPhone 15 pro Max 256gb original lacrado 1 ano d garantia por",
+            "link": "https://s.shopee.com.br/1VhLAhAHKB?share_channel_code=1",
+            "preco": 7446.00
+        },
+        "32": {
+            "foto": "img/produtos/produto32.png",
+            "titulo": "Notebook Positivo 2 em 1",
+            "descricao": "Notebook Positivo 2 Em 1 Zx3020",
+            "link": "https://s.shopee.com.br/1LNuyPf22t?share_channel_code=1",
+            "preco": 599.00
+        },
+        "33": {
+            "foto": "img/produtos/produto33.png",
+            "titulo": "Passadeira a Vapor",
+            "descricao": " Passadeira A Vapor Passar Roupa Voltagem 110V / 220V 200ml Elimina Ácaros Odores De Roupas Estofados Cortinas Ferro a Vapo",
+            "link": "https://s.shopee.com.br/3ApZ9nki6V?share_channel_code=1",
+            "preco": 69.90
+        },
+        "34": {
+            "foto": "img/produtos/produto34.png",
+            "titulo": "Tripé Estabilizador",
+            "descricao": "https://s.shopee.com.br/40Og9LuTEz?share_channel_code=1",
+            "link": "https://s.shopee.com.br/40Og9LuTEz?share_channel_code=1",
+            "preco": 39.99
+        },
+        "35": {
+            "foto": "img/produtos/produto35.png",
+            "titulo": " Barraca Infantil",
+            "descricao": "Barraca infantil rosa flor grande 1.3M menina princesa menino criança azul estrela",
+            "link": "https://s.shopee.com.br/5Ku3jotWnS?share_channel_code=1",
+            "preco": 67.00
+        },
+        "36": {
+            "foto": "img/produtos/produto36.png",
+            "titulo": "Mochila Escolar",
+            "descricao": "Mochila Escolar Resistente Bem Espaçosa Faculdade Trabalho Viagem",
+            "link": "https://s.shopee.com.br/3VSPYT8czO?share_channel_code=1",
+            "preco": 44.90
+        },
+        "37": {
+            "foto": "img/produtos/produto37.png",
+            "titulo": "Aspirador de Pó e Fluidos",
+            "descricao": "Aspirador Pó e Água Potente 1400w Soprador Pequeno Portatil Barril 5,5L Wap",
+            "link": "https://s.shopee.com.br/A9zJUkR31o?share_channel_code=1",
+            "preco": 219.99
+        },
+        "38": {
+            "foto": "img/produtos/produto38.png",
+            "titulo": "Kit Termômetro + Oximêtro + Medidor de Pressão",
+            "descricao": "Termômetro Digital + Medidor De Pressão Arterial De Pulso Conjunto De Medidores",
+            "link": "https://s.shopee.com.br/AUc9tNyMoC?share_channel_code=1",
+            "preco": 24.90
+        },
+        "39": {
+            "foto": "img/produtos/produto39.png",
+            "titulo": "Kit Escovas para Limpeza Automotiva",
+            "descricao": "Escova Para Limpeza Automotiva Caixa de Roda Escova Lavar Pneu Microfibra Para Rodas Pneus Vonder",
+            "link": "https://s.shopee.com.br/5fWu8Xxonb?share_channel_code=1",
+            "preco": 32.94
+        },
+        "40": {
+            "foto": "img/produtos/produto40.png",
+            "titulo": "Pistola de Solda Elétrica",
+            "descricao": "Pistola De Solda Elétrica De 110V/220V 60W Envio Automático Lata Verde",
+            "link": "https://s.shopee.com.br/1g0lNELNhc?share_channel_code=1",
+            "preco": 86.00
+        },
+        "41": {
+            "foto": "img/produtos/produto41.png",
+            "titulo": "SmartWatch Dz09",
+            "descricao": "Smartwatch Dz09 Smart Watch Support TF Sim Câmera Esportiva Feminina Masculina Bluetooth (Sem Português)",
+            "link": "https://s.shopee.com.br/AUc9tU0kro?share_channel_code=1",
+            "preco": 46.70
+        },
+        "42": {
+            "foto": "img/produtos/produto42.png",
+            "titulo": "Kit Pintura Infantil 150 peças",
+            "descricao": "Estojo Maleta Pintura Infantil Kit pintura 24peças a 150 peças Canetinhas Giz Lápis Cores e Tamanhos Variados + Desenhos Para Colorir Presente infantil",
+            "link": "https://s.shopee.com.br/2VZsMnQ8E7?share_channel_code=1",
+            "preco": 14.99
+        },
+        "43": {
+            "foto": "img/produtos/produto43.png",
+            "titulo": "Playstation 3 com 72 Jogos ORIGINAIS",
+            "descricao": "Ps3 Playstation 3 Com 72 Games Jogos Originais",
+            "link": "https://s.shopee.com.br/6fPRKTN8MW?share_channel_code=1",
+            "preco": 1049.00
+        },
+        "44": {
+            "foto": "img/produtos/produto44.png",
+            "titulo": "Kit Panos de Prato - 30 Unidades",
+            "descricao": "Pano de prato estampado com bainha",
+            "link": "https://s.shopee.com.br/5AadXkRpVE?share_channel_code=1",
+            "preco": 19.87
+        },
+        "45": {
+            "foto": "img/produtos/produto45.png",
+            "titulo": "Apple Watch Série 9 + Air Pods Pro",
+            "descricao": "Apple watch Série 9 + Airpods pro TWS Fone De Ouvido Bluetooth Sem Fio",
+            "link": "https://s.shopee.com.br/9Ujchk5zJQ?share_channel_code=1",
+            "preco": 200.00
+        },
+        "46": {
+            "foto": "img/produtos/produto46.png",
+            "titulo": "Bolsa Feminina + Carteira",
+            "descricao": "Bolsa Feminina Grande + Carteira Santorini Handbag, Transversal, tiracolo, tote",
+            "link": "https://s.shopee.com.br/702HjAO2Qq?share_channel_code=1",
+            "preco": 69.70
         }
     }
 }
